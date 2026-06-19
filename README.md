@@ -1,363 +1,514 @@
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║              GOWTHAM V — GITHUB PROFILE README                             ║
+║  How to use: Create a repo named exactly "gowtham75330" → add this file    ║
+║  To edit a section: search for the <!-- EDIT: tag above that block         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ============================================================
+     SECTION 1 · HERO BANNER
+     EDIT: Change the text after &text= in the capsule-render URL
+     EDIT: Change colors in &color= (gradient hex codes)
+     EDIT: Update the typing lines in the TypingSVG URL below
+     ============================================================ -->
+
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gowtham%20V&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems%20for%20Real-World%20Impact&descAlignY=58&descSize=16&descColor=a0a0c0" />
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=🤖+AI+%2F+ML+Engineer+in+the+Making;🧠+Building+NLP+%2C+CV+%26+LLM-Powered+Apps;🚀+Turning+Data+into+Decisions;💡+Open+to+AI+Internships+%26+Entry-Level+Roles)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-v-454a6a2b8/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://magical-centaur-4eb027.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-gowtham75330-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowtham75330)
-[![Email](https://img.shields.io/badge/Email-Open%20to%20Opportunities-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowtham75330@gmail.com)
-
-<br/>
-
-<!-- PROFILE VIEWS + FOLLOWERS -->
-![Profile Views](https://komarev.com/ghpvc/?username=gowtham75330&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/gowtham75330?style=for-the-badge&color=00d4ff&labelColor=0d1117)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,30:764ba2,60:f093fb,100:f5576c&height=220&section=header&text=Gowtham%20V&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Student%20·%20Full%20Stack%20Developer%20·%20UI%2FUX%20Enthusiast&descAlignY=62&descSize=15&descColor=f0e6ff" />
 
 </div>
 
----
-
-## 🧠 About Me
-
-```python
-class GowthamV:
-    name        = "Gowtham V"
-    role        = "Aspiring AI/ML Engineer"
-    college     = "Excel Engineering College, Namakkal"
-    location    = "Tamil Nadu, India 🇮🇳"
-    goal        = "AI/ML Internship → Entry-Level AI Engineer"
-
-    focus_areas = [
-        "Machine Learning & Deep Learning",
-        "Natural Language Processing (NLP)",
-        "Computer Vision",
-        "LLM Integration & Prompt Engineering",
-        "AI-Powered Full Stack Applications"
-    ]
-
-    current_learning = [
-        "Transformers & Hugging Face",
-        "LangChain & RAG Pipelines",
-        "MLOps & Model Deployment",
-        "FastAPI for ML Microservices"
-    ]
-
-    fun_fact = "I build AI solutions for real Indian social problems 🇮🇳"
-    motto    = "NEVER GIVE UP 💪"
-```
-
----
-
-## 🚀 Featured AI/ML Projects
-
 <div align="center">
 
-| Project | Tech Stack | Live Demo |
-|:--------|:-----------|:---------:|
-| 🧾 [**NutriScan AI**](#) — Intelligent food nutrition analyzer using image recognition & NLP | `Python` `TensorFlow` `OpenCV` `FastAPI` `React` | [Demo →](#) |
-| 🗺️ [**Smart Welfare Scheme Finder**](#) — Eligibility engine for 100+ Indian government schemes | `Python` `Scikit-learn` `NLP` `React` `Node.js` | [Demo →](#) |
-| 🛒 [**NearMart**](#) — Hyperlocal AI marketplace with demand forecasting | `Python` `ML` `Node.js` `MongoDB` `React` | [Demo →](#) |
-| ⚡ [**Smart EV Charging Station Finder**](#) — Real-time EV station management with route optimization | `Python` `Maps API` `FastAPI` `React` `ML` | [Demo →](#) |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=764BA2&center=true&vCenter=true&multiline=false&width=680&lines=🎓+B.Tech+AI+%26+Data+Science+%40+Excel+Engineering+College;💻+Full+Stack+Developer+%7C+React+·+Node.js+·+Flask;🎨+UI%2FUX+Enthusiast+%7C+Figma+·+Prototyping;🤖+Building+real-world+AI+%26+web+solutions;🌱+Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
-## 🤖 AI/ML Skill Stack
+<!-- ============================================================
+     SECTION 2 · SOCIAL / CONTACT BADGES
+     EDIT: Replace LinkedIn URL slug, email, and portfolio URL
+     ============================================================ -->
 
 <div align="center">
 
-### Core ML & AI
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham%20V-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-v-454a6a2b8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-f5576c?style=for-the-badge&logo=netlify&logoColor=white)](https://magical-centaur-4eb027.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-gowthamanbu06%40gmail.com-f093fb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamanbu06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gowtham75330-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowtham75330)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gowtham75330&color=764ba2&style=flat-square&label=Profile+Views)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/🟢_Open_to-Internships_&_Opportunities-success?style=flat-square)](mailto:gowthamanbu06@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================
+     SECTION 3 · ABOUT ME
+     EDIT: Update the paragraph text, location, and quick-facts
+     EDIT: Change the emoji bullets to match your current focus
+     ============================================================ -->
+
+## 👋 About Me
+
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
+Hi! I'm **Gowtham V**, a second-year **B.Tech AI & Data Science** student at **Excel Engineering College (Autonomous), Namakkal**, Tamil Nadu, India.
+
+I enjoy building things that sit at the intersection of **intelligent systems** and **beautiful interfaces** — from AI-assisted web apps to clean, responsive UIs that users actually enjoy.
+
+I've completed **3 internships** across Full Stack Development and UI/UX Design, and I'm always looking for the next problem worth solving.
+
+- 🎓 **Degree:** B.Tech — Artificial Intelligence & Data Science (2023 – 2027)
+- 📍 **Location:** Tiruppur, Tamil Nadu, India
+- 💼 **Experience:** Full Stack Intern × 2 · UX/UI Design Intern × 1
+- 🏆 **CGPA:** 8.28 / 10
+- 💬 **Ask me about:** React, Flask, Python, Figma, or building useful side projects
+- 📬 **Reach me at:** gowthamanbu06@gmail.com · +91 8072345809
+- ⚡ **Fun fact:** I scored **100%** in SSLC. Still chasing that energy 😄
+
+<br/>
+
+---
+
+<!-- ============================================================
+     SECTION 4 · EDUCATION
+     EDIT: Update CGPA, year, or institution details as needed
+     ============================================================ -->
+
+## 🎓 Education
+
+<table width="100%">
+<tr>
+<td width="60px" align="center">🏛️</td>
+<td>
+<strong>B.Tech — Artificial Intelligence & Data Science</strong><br/>
+Excel Engineering College (Autonomous) · Namakkal, Tamil Nadu<br/>
+<code>2023 – 2027</code> &nbsp; | &nbsp; CGPA: <strong>8.28 / 10</strong>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td align="center">📘</td>
+<td>
+<strong>HSC — Higher Secondary Certificate</strong><br/>
+Government Higher Secondary School, Saravanapuram<br/>
+<code>2022 – 2023</code> &nbsp; | &nbsp; Score: <strong>77%</strong>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td align="center">📗</td>
+<td>
+<strong>SSLC — Secondary School Leaving Certificate</strong><br/>
+Government Higher Secondary School, Saravanapuram<br/>
+<code>2020 – 2021</code> &nbsp; | &nbsp; Score: <strong>100%</strong>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ============================================================
+     SECTION 5 · SKILLS
+     EDIT: Add or remove badges by copying the img.shields.io pattern
+     Format: ![Name](https://img.shields.io/badge/Name-Color?style=flat-square&logo=LOGO&logoColor=white)
+     Logo names: https://simpleicons.org
+     ============================================================ -->
+
+## 🛠️ Skills & Tech Stack
+
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### NLP & LLMs
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SpaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-
-### Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Deployment & MLOps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Frontend & Full Stack
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-</div>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🤝 Soft Skills
+`Leadership` &nbsp; `Problem Solving` &nbsp; `Time Management` &nbsp; `Communication`
+
+<br/>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ============================================================
+     SECTION 6 · INTERNSHIP EXPERIENCE
+     EDIT: Update company names, roles, dates, and bullet points
+     EDIT: Add new internships by duplicating a <details> block
+     ============================================================ -->
 
-<div align="center">
+## 💼 Internship Experience
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gowtham75330&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham75330&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+<details open>
+<summary>&nbsp;🏢 &nbsp;<strong>Nitroware Technologies</strong> — Full Stack Development Intern &nbsp;<code>Dec 2025 – Jan 2026</code></summary>
+<br/>
 
-</div>
+- Built responsive, cross-device web applications with smooth layouts using the **MERN stack**
+- Worked with **MongoDB** and **MySQL** schemas to manage application data and state
+- Integrated frontend UI components with backend **REST APIs** and routing modules
+- Improved application performance by optimizing runtime and database queries
 
-<div align="center">
+</details>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gowtham75330&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+<br/>
 
-</div>
+<details>
+<summary>&nbsp;🎨 &nbsp;<strong>Techforge</strong> — UX/UI Design Intern</summary>
+<br/>
+
+- Drafted wireframes and navigation flow schematics for web interfaces
+- Assembled high-fidelity interactive prototypes in **Figma** for user testing reviews
+- Conducted user feedback analyses to identify and resolve interface bottlenecks
+- Ensured strict **pixel alignment** and responsive layout consistency
+
+</details>
+
+<br/>
+
+<details>
+<summary>&nbsp;💻 &nbsp;<strong>Crescent Infotech</strong> — Full Stack Development Intern</summary>
+<br/>
+
+- Developed responsive web interfaces using **HTML, CSS, JavaScript**, and modern frameworks
+- Built and integrated **RESTful APIs** for seamless frontend–backend communication
+- Designed and managed databases ensuring efficient data storage, retrieval, and security
+- Participated in **code reviews**, version control workflows, and deployment processes
+
+</details>
+
+<br/>
 
 ---
+
+<!-- ============================================================
+     SECTION 7 · FEATURED PROJECTS
+     EDIT: Replace href="#" with your actual repo URLs
+     EDIT: Update the description text and tech tags per project
+     EDIT: Add a new project by copying one full HTML table block
+     ============================================================ -->
+
+## 🚀 Featured Projects
+
+<!-- PROJECT CARD 1 -->
+<table width="100%">
+<tr>
+<td width="4" style="background: linear-gradient(180deg,#667eea,#764ba2); padding:0;"></td>
+<td style="padding: 16px;">
+
+### 🗺️ Smart Welfare Scheme Eligibility Finder
+> A web platform that recommends Indian government welfare schemes based on user eligibility — occupation, income, category, and state.
+
+**What it does:**
+Fills the awareness gap between citizens and government schemes. Users answer a short form, and the app filters the most relevant schemes using a **Python Flask** backend with rule-based eligibility logic.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![View Repo](https://img.shields.io/badge/View_Repository-764ba2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowtham75330/scheme-finder)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-f5576c?style=for-the-badge&logo=netlify&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT CARD 2 -->
+<table width="100%">
+<tr>
+<td width="4" style="background: linear-gradient(180deg,#f093fb,#f5576c); padding:0;"></td>
+<td style="padding: 16px;">
+
+### 🛒 NearMart — Hyperlocal Marketplace Platform
+> Connecting local sellers with nearby buyers through a geo-aware marketplace built for India's hyperlocal economy.
+
+**What it does:**
+A full-stack marketplace platform where local vendors list products and buyers discover them based on proximity. Focuses on bridging the gap between kirana stores and digital commerce.
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![View Repo](https://img.shields.io/badge/View_Repository-764ba2?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-f5576c?style=for-the-badge&logo=netlify&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT CARD 3 -->
+<table width="100%">
+<tr>
+<td width="4" style="background: linear-gradient(180deg,#4facfe,#00f2fe); padding:0;"></td>
+<td style="padding: 16px;">
+
+### 🥗 NutriScan AI — Food Nutrition Analyzer
+> An intelligent application that analyzes food images or names and returns detailed nutritional information to support healthier daily choices.
+
+**What it does:**
+Users input a food item (by name or image) and receive a breakdown of calories, macros, and dietary guidance. Built to make nutrition awareness accessible and instant.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repository-764ba2?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-f5576c?style=for-the-badge&logo=netlify&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT CARD 4 -->
+<table width="100%">
+<tr>
+<td width="4" style="background: linear-gradient(180deg,#43e97b,#38f9d7); padding:0;"></td>
+<td style="padding: 16px;">
+
+### ⚡ Smart EV Charging Station Finder & Management System
+> A location-aware web app helping EV users find nearby charging stations in real time, with station-side management tools for operators.
+
+**What it does:**
+Addresses EV range anxiety by showing nearby stations, live availability status, and route guidance. Operators can manage their stations through a lightweight dashboard.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repository-764ba2?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-f5576c?style=for-the-badge&logo=netlify&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ============================================================
+     SECTION 8 · CERTIFICATIONS
+     EDIT: Replace [#] links with actual certificate URLs
+     EDIT: Add new certs by copying a row inside the table
+     EDIT: Dates are in Month YYYY format
+     ============================================================ -->
+
+## 📜 Certifications
+
+| Badge | Certification | Issuer | Date |
+|:-----:|:--------------|:-------|:----:|
+| ☁️ | **AWS Generative AI** — Introduction to Gen AI: Art of the Possible | Amazon Web Services | Jan 2026 |
+| 🔐 | **Cybersecurity Fundamentals** | IBM SkillsBuild | Mar 2026 |
+| 🛡️ | **Cyber Security and Privacy** *(Elite — 70%)* | NPTEL · IIT Madras | Oct 2025 |
+| 🤖 | **Artificial Intelligence For All** | Infosys Springboard | Nov 2025 |
+| 💻 | **Full Stack Web Development** *(Internship Completion)* | Nitroware Technologies | Jan 2026 |
+| 🏭 | **Industry 4.0 & Industrial IoT** *(Elite — 72%)* | NPTEL · IIT Kharagpur | Apr 2025 |
+| 🔒 | **Cybersecurity Awareness** | HP LIFE Foundation | Mar 2026 |
+
+<br/>
+
+---
+
+<!-- ============================================================
+     SECTION 9 · GITHUB STATS
+     EDIT: ?username= should always be gowtham75330
+     EDIT: Change &theme= to any theme from github-readme-stats docs
+     Available themes: default, radical, merko, gruvbox, tokyonight,
+     onedark, cobalt, synthwave, highcontrast, dracula
+     ============================================================ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gowtham75330&show_icons=true&theme=default&hide_border=false&border_color=c7b3f5&title_color=764ba2&icon_color=f5576c&text_color=333&bg_color=fefefe&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham75330&layout=compact&theme=default&hide_border=false&border_color=c7b3f5&title_color=764ba2&text_color=333&bg_color=fefefe&langs_count=7" />
+
+</div>
+
+<div align="center">
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gowtham75330&theme=soft-green&hide_border=false&border=c7b3f5&ring=764ba2&fire=f5576c&currStreakLabel=764ba2&sideLabels=764ba2&dates=555)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================
+     SECTION 10 · ACTIVITY GRAPH
+     EDIT: Change &theme= value for a different graph color palette
+     Some options: github-compact, tokyo-night, react-dark, rogue
+     ============================================================ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Gowtham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gowtham75330&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&area_color=00d4ff)](https://github.com/gowtham75330)
+[![Gowtham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gowtham75330&theme=github-compact&hide_border=false&bg_color=fafafa&color=764ba2&line=667eea&point=f5576c&area=true&area_color=c7b3f5)](https://github.com/gowtham75330)
 
 </div>
 
+<br/>
+
 ---
 
-## 🏆 GitHub Trophies
+<!-- ============================================================
+     SECTION 11 · LEARNING JOURNEY
+     EDIT: Move items between Currently Learning / Up Next / Done
+     EDIT: Update the "Currently focusing on" text freely
+     ============================================================ -->
+
+## 🌱 Learning Journey
+
+**Currently focusing on:** Deepening my Data Science fundamentals alongside shipping production-ready full stack projects.
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**📚 Currently Learning**
+- Data Structures & Algorithms
+- React advanced patterns
+- REST API design & security
+- Power BI dashboards
+- Python for data analysis (Pandas, NumPy)
+
+</td>
+<td width="33%" valign="top">
+
+**🔭 Up Next**
+- Machine Learning foundations (Scikit-learn)
+- SQL query optimization
+- Cloud basics (AWS / GCP)
+- Docker & basic deployment
+- Open source contributions
+
+</td>
+<td width="33%" valign="top">
+
+**✅ Comfortable With**
+- MERN stack development
+- Flask REST APIs
+- Figma prototyping
+- Git & GitHub workflows
+- Responsive UI design
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ============================================================
+     SECTION 12 · ACHIEVEMENTS (Optional — keep or remove)
+     EDIT: Replace text with your real hackathons, awards, events
+     ============================================================ -->
+
+## 🏆 Achievements
+
+- 🥇 **National Level Hackathon Participant** — Built prototypes under constrained timelines with interdisciplinary teams
+- ☁️ **AWS Certified Learner** — Completed cloud modules on compute, serverless APIs, and AI systems
+- 🎓 **Full Stack Development Completion** — Graduated comprehensive training in frontend, REST APIs, and databases
+- 🤖 **AI Project Development** — Designed and shipped computer vision and eligibility-matching applications
+
+<br/>
+
+---
+
+<!-- ============================================================
+     SECTION 13 · CONTACT
+     EDIT: Replace email, phone, LinkedIn slug, and portfolio URL
+     ============================================================ -->
+
+## 📫 Contact Me
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gowtham75330&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+**Let's create something together.**
+
+*Internship opportunities, project collabs, or just a conversation about AI and web tech — I'm all ears.*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-gowthamanbu06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamanbu06@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-v-454a6a2b8/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f5576c?style=for-the-badge&logo=firefox&logoColor=white)](https://magical-centaur-4eb027.netlify.app/)
+
+📞 **+91 8072345809** &nbsp;·&nbsp; 📍 **Tiruppur, Tamil Nadu, India**
 
 </div>
 
----
-
-## 🎯 AI/ML Project Deep Dives
-
-<details>
-<summary>🧾 <strong>NutriScan AI — Intelligent Food Nutrition Analyzer</strong></summary>
-
 <br/>
 
-> **Problem:** People in India lack quick, accessible nutrition information for home-cooked meals and regional foods.
-
-**What it does:**
-- 📸 Upload a food image → AI identifies the dish using **CNN + Transfer Learning** (ResNet50)
-- 🔍 Extracts detailed macro & micronutrient data using a trained NLP pipeline
-- 💬 Provides dietary recommendations using an **LLM integration**
-- 📊 Tracks daily nutrition with a personalized dashboard
-
-**Tech Stack:** `Python` `TensorFlow` `ResNet50` `FastAPI` `React` `MongoDB` `OpenAI API`
-
-**Key Metrics:**
-- 92% food classification accuracy on Indian dishes dataset
-- Covers 500+ Indian regional foods
-- Real-time inference under 2 seconds
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/gowtham75330/nutriscan-ai)
-
-</details>
-
-<details>
-<summary>🗺️ <strong>Smart Welfare Scheme Eligibility Finder</strong></summary>
-
-<br/>
-
-> **Problem:** Millions of eligible Indians miss out on government welfare schemes due to lack of awareness and complex eligibility criteria.
-
-**What it does:**
-- 🤖 NLP-powered chatbot to understand user profile in regional languages
-- 🎯 ML classifier matches users to 100+ Central & State government schemes
-- 📄 Auto-generates eligibility reports and application guidance
-- 🌐 Multilingual support (Tamil, Hindi, English)
-
-**Tech Stack:** `Python` `Scikit-learn` `NLTK` `React` `Node.js` `MongoDB` `JavaScript`
-
-**Impact:**
-- Indexes 100+ welfare schemes across categories (education, health, agriculture, housing)
-- Reduces scheme discovery time from hours to seconds
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/gowtham75330/scheme-finder)
-
-</details>
-
-<details>
-<summary>🛒 <strong>NearMart — AI-Powered Hyperlocal Marketplace</strong></summary>
-
-<br/>
-
-> **Problem:** Local kirana stores lack digital infrastructure to compete with e-commerce giants and serve hyperlocal demand efficiently.
-
-**What it does:**
-- 📍 Geo-based product discovery connecting buyers with nearest sellers
-- 📈 ML-based demand forecasting for inventory optimization
-- 🚚 AI route optimization for last-mile delivery
-- 💡 Personalized product recommendations using collaborative filtering
-
-**Tech Stack:** `Python` `Scikit-learn` `Node.js` `React` `MongoDB` `Google Maps API`
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/gowtham75330/nearmart-platform)
-
-</details>
-
-<details>
-<summary>⚡ <strong>Smart EV Charging Station Finder & Management System</strong></summary>
-
-<br/>
-
-> **Problem:** EV adoption in India is limited by range anxiety and poor visibility of charging infrastructure.
-
-**What it does:**
-- ⚡ Real-time station availability using live API integrations
-- 🗺️ Optimal route planning with charging stop suggestions using ML
-- 📊 Station management dashboard for operators with predictive maintenance alerts
-- 🔔 Smart notifications for station availability and wait time prediction
-
-**Tech Stack:** `Python` `FastAPI` `React` `Maps API` `ML` `WebSockets` `MongoDB`
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/gowtham75330/smart-ev-charging)
-
-</details>
-
 ---
 
-## 📌 Pinned Repository Naming Convention
-
-> ✅ Use these clean, professional repository names:
-
-| Old Name | ✅ Recommended Name |
-|:---------|:--------------------|
-| `scheme-finder` | `smart-welfare-scheme-eligibility-finder` |
-| `scheme-frontend` | `welfare-scheme-frontend-react` |
-| `portfolio` | `gowtham75330` (profile README repo) |
-| *(new)* | `nutriscan-ai-food-nutrition-analyzer` |
-| *(new)* | `nearmart-hyperlocal-marketplace` |
-| *(new)* | `smart-ev-charging-station-finder` |
-
----
-
-## 🎓 Education & Certifications
-
-```
-🏛️  Excel Engineering College, Namakkal — B.E. (CSE)
-📍  Tamil Nadu, India
-
-📜  Certifications (Add yours here):
-    ├─ Google ML Crash Course
-    ├─ Coursera — Machine Learning Specialization (Andrew Ng)
-    ├─ Hugging Face NLP Course
-    └─ IBM AI Engineering Professional Certificate
-```
-
----
-
-## 🌱 What I'm Currently Building
-
-- 🔭 **RAG-powered Document Q&A** using LangChain + FAISS + Gemini API
-- 🌱 **Learning:** MLOps with MLflow + Docker + GitHub Actions CI/CD
-- 🤝 **Open to:** AI/ML internships, collaborative open-source AI projects
-- 💬 **Ask me about:** Python, ML pipelines, NLP, building AI apps for social good
-
----
-
-## 📡 Recruiter Scorecard & Growth Roadmap
-
-<details>
-<summary>📊 <strong>View My Current Recruiter Score & Action Plan</strong></summary>
-
-<br/>
-
-### 🏆 Current Recruiter Score: **52 / 100**
-
-| Category | Score | Status |
-|:---------|:-----:|:-------|
-| Project Quality & Relevance | 16/25 | ⚡ Strong domain choices, needs more ML depth |
-| GitHub Profile Polish | 6/15 | 🔴 README missing, sparse repos |
-| Code Quality & Documentation | 5/15 | 🔴 No READMEs in project repos |
-| Skills Demonstrated | 8/15 | ⚡ Full-stack shown, pure ML needs boosting |
-| Activity & Consistency | 5/15 | 🔴 Very few commits, low streak |
-| Community & Open Source | 2/10 | 🔴 No stars, forks, or contributions |
-| Deployment & MLOps | 3/5 | ⚡ Netlify portfolio live |
-
----
-
-### 🚀 Improvements Required (Priority Order)
-
-**🔴 Critical (Do These First):**
-1. Add individual `README.md` to EVERY project repo with problem statement, architecture diagram, screenshots, and setup instructions
-2. Push complete, documented code to all 4 AI projects
-3. Create this profile README (done ✅)
-4. Get a minimum 30-day GitHub commit streak
-
-**🟡 Important (Next 30 Days):**
-5. Deploy all projects (Hugging Face Spaces for ML, Vercel for frontends)
-6. Add `requirements.txt`, `Dockerfile`, and demo GIFs to each repo
-7. Rename repos to professional names (table above)
-8. Earn 1–2 recognized ML certifications and list them
-
-**🟢 Growth (Next 60 Days):**
-9. Contribute to 2–3 open-source AI projects on GitHub
-10. Write 2 technical blog posts (Medium/Hashnode) about your projects
-11. Add Jupyter notebooks with EDA + model training walkthroughs
-12. Build and publish an ML model on Hugging Face Hub
-
----
-
-### 🏗️ Missing Projects to Build (Will Push Score to 85+)
-
-| Project | Why It Matters | Tech |
-|:--------|:---------------|:-----|
-| **Sentiment Analysis API** | Core NLP skill, easy to deploy | `HuggingFace` `FastAPI` |
-| **Resume Screener with LLM** | Highly recruiter-relevant | `LangChain` `OpenAI` `Streamlit` |
-| **Stock Price Predictor** | Classic ML showcase with time-series | `LSTM` `Pandas` `Plotly` |
-| **End-to-End MLOps Pipeline** | Shows production readiness | `MLflow` `Docker` `GitHub Actions` |
-| **Kaggle Competition Notebook** | Proves competitive ML skills | `XGBoost` `EDA` `Feature Eng.` |
-
-</details>
-
----
-
-## 📫 Let's Connect
+<!-- ============================================================
+     FOOTER WAVE
+     EDIT: Change &color= gradient hex codes to match any rebrand
+     ============================================================ -->
 
 <div align="center">
 
-**🤝 Open to AI/ML Internships and Entry-Level AI Engineer Roles**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5576c,40:f093fb,70:764ba2,100:667eea&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
-*I build AI that solves real problems for real people. Let's talk.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-v-454a6a2b8/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://magical-centaur-4eb027.netlify.app/)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=NEVER%20GIVE%20UP&fontSize=28&fontColor=00d4ff&animation=fadeIn&fontAlignY=65" />
-
-*"Consistency beats talent when talent doesn't show up every day."*
-
-⭐ **Star my repos if they help you!** · 🍴 **Fork and build on my projects!**
+<sub>⭐ If you found any of my projects useful, a star goes a long way — thank you!</sub>
 
 </div>
