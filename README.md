@@ -260,7 +260,7 @@ An intelligent web application that identifies food items and returns detailed n
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00BCD4?style=for-the-badge&logo=netlify&logoColor=white)](nutriscan-pro-1g9p.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowtham75330/gowtham75330)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gowtham75330/nutriscan-pro)
 
 ---
 
